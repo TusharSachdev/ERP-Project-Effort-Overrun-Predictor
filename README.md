@@ -1,4 +1,4 @@
-# 🔍 ERP Project Effort Overrun Predictor — ML + Dashboard (Google Colab)
+# 🔍 ERP Project Effort Overrun Predictor — ML + Dashboard 
 
 An interactive data science project to **predict project effort overruns** in ERP implementations using machine learning and visualize the predictions via an interactive Plotly dashboard. This prototype is built entirely in **Google Colab**, making it easy to share, extend, and deploy.
 
